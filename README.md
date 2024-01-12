@@ -75,3 +75,10 @@ Upload a screenshot with the vscode running, terminator and rviz opened after la
 **Result**
 
  ![Screenshot](/z_media/assignment03.png)
+
+## Assignment 4
+Upload a video of rviz with the overall simulation running, making the overall steps of file [commander_examples](https://github.com/roboticswithjulia/MRAC_ur_commander/blob/main/commander/notebooks/commander_examples.ipynb).
+
+**Result**
+
+ ![Commander Examples](/z_media/assignment04.mp4)
