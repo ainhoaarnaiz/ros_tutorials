@@ -71,4 +71,7 @@ Follow the tutorials at [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) from
 
 ## Assignment 3
 Upload a screenshot with the vscode running, terminator and rviz opened after launching the simulation in [MRAC_ur_commander](https://github.com/roboticswithjulia/MRAC_ur_commander).
+
+**Result**
+
  ![Screenshot](/z_media/assignment03.png)
