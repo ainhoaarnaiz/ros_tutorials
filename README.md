@@ -1,7 +1,9 @@
 # ROS Tutorials
 This is the repository which is going to be used by the student (me!) during the Subject Software II, Introduction to ROS. 
 
-## Assignment 1
+## Introduction to ROS
+
+### Assignment 2
 Follow the tutorials at [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) from the ROS Wiki, which include:
 
 - **Tutorial 2**: Navigating the ROS Filesystem
@@ -52,7 +54,9 @@ Follow the tutorials at [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) from
 
 ```
 
-## Assignment 2
+## Rospy
+
+## Assignment 1
 1. **Turtle pose subscriber**: write a node that subscribes to the pose of the turtle and prints the position and orientation of the turtle.
 2. **Turtle twist publisher**: write a node that publishes a twist message to the turtle.
 
@@ -67,18 +71,29 @@ Follow the tutorials at [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) from
 │   └── package.xml
 
 ```
- ![Circular Movement Turtlesim](/z_media/assignment02.png)
+ ![Circular Movement Turtlesim](/z_media/rospy_assignment.png)
 
-## Assignment 3
+
+## Mobile Robots
+
+## Assignment 1
+Upload a video with the robot moving along the gazebo and rviz sending goals using the rviz gui.
+
+**Result**
+ ![Navigation Examples](/z_media/mobile_robots_assignment01.mp4)
+
+## MoveIt
+
+## Assignment 1
 Upload a screenshot with the vscode running, terminator and rviz opened after launching the simulation in [MRAC_ur_commander](https://github.com/roboticswithjulia/MRAC_ur_commander).
 
 **Result**
 
- ![Screenshot](/z_media/assignment03.png)
+ ![Screenshot](/z_media/moveit_assignment01.png)
 
-## Assignment 4
+## Assignment 2
 Upload a video of rviz with the overall simulation running, making the overall steps of file [commander_examples](https://github.com/roboticswithjulia/MRAC_ur_commander/blob/main/commander/notebooks/commander_examples.ipynb).
 
 **Result**
 
- ![Commander Examples](/z_media/assignment04.mp4)
+ ![Commander Examples](/z_media/moveit_assignment02.mp4)
