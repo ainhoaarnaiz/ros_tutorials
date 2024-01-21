@@ -82,6 +82,21 @@ Upload a video with the robot moving along the gazebo and rviz sending goals usi
 **Result**
  ![Navigation Examples](/z_media/mobile_robots_assignment01.mp4)
 
+## Assignment 2
+Create a node (python executable) inside the **commander_move_base** package and implement the following:
+- Create a new node named **turtlebot_mover** which makes the robot move along three diferent positions with reference to the map. Make sure that the robot reaches the predefined positions getting the feedback from the robot.
+- Create a new node named **turtlebot_approx** which make the robot move with the velocity topic '/mobile_base/commands/velocity' getting info from the lidar (/scan) being able to getting closer to a specific object and make the robot stop when the it is about 0.30m.
+
+**Result**
+```
+├── commander_move_base
+│   ├── scripts
+│   │   ├── turtlebot_mover.py
+│   │   └── turtlebot_approx.py
+│   └── ...
+
+```
+
 ## MoveIt
 
 ## Assignment 1
@@ -97,3 +112,10 @@ Upload a video of rviz with the overall simulation running, making the overall s
 **Result**
 
  ![Commander Examples](/z_media/moveit_assignment02.mp4)
+
+ ## Assignment 3
+Add another box in the scene, and make a pick and place of this box picking and placing in different places.
+
+**Result**
+
+ ![Pick and Place](/z_media/moveit_assignment03.mp4)
