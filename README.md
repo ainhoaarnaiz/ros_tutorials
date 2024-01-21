@@ -80,6 +80,7 @@ Follow the tutorials at [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) from
 Upload a video with the robot moving along the gazebo and rviz sending goals using the rviz gui.
 
 **Result**
+
  ![Navigation Examples](/z_media/mobile_robots_assignment01.mp4)
 
 ## Assignment 2
